@@ -1,0 +1,3 @@
+.demo-shadow {
+    filter: drop-shadow(15px 15px 15px #000000)
+}
